@@ -1,3 +1,1 @@
-# newspaperlocations
-
-Simple Android app that parses a json file and displays a list of newspaper boxes and the location of each item when clicked.
+## A big thanks to Jason += team for the opportunity to show off _*some*_ of my skills :)

@@ -1,0 +1,7 @@
+#Tue Feb 14 00:15:39 EST 2017
+base.0=C\:\\Users\\Elisha\\AndroidStudioProjects\\NewspaperLocations\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c46efd35857eaba4bcfafc31af3b93c1532bf972
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Elisha\\AndroidStudioProjects\\NewspaperLocations\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9fa0e858b5c59b59ba55b8a792e2a5f7926e2935\\classes.dex
+base.1=C\:\\Users\\Elisha\\AndroidStudioProjects\\NewspaperLocations\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9fa0e858b5c59b59ba55b8a792e2a5f7926e2935
+file.0=C\:\\Users\\Elisha\\AndroidStudioProjects\\NewspaperLocations\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c46efd35857eaba4bcfafc31af3b93c1532bf972\\classes.dex

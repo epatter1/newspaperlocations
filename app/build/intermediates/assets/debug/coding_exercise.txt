@@ -1,0 +1,18 @@
+Done - Parse the attached newspaper_locations.json file and make a list of all the locations.
+
+Done - If the the locations'style is “paperbox” then make the background of the item equal to #2ECC71 (green) if the style of the location
+is “starbucks” make the background #C0392B (red).
+
+Done - Display the style, details and lat & long info for each location in the list.
+
+Done - Display the text in #FFFFFF (white).
+
+Done - Make the items clickable and display the map with the location of the item (centered with pin) when clicked.
+
+The assumptions are:
+Done - You will build an Android App (since you have Android experience)
+Done -  In progress - No 3rd party libraries; use only native libraries
+Done - The JSON file is to reside locally in the assets folder
+Done - There is no time limit, but the sooner the better
+Done - Code should be clear and commented when needed
+TODO - Once you have completed coding and testing please send back the project in a zip file or send a github link. I should be able to import and build the project in my Android Studio IDE.
